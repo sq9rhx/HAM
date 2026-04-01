@@ -1,0 +1,15 @@
+{
+  "name": "ESP32 HAM-CLOCK Modified",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "/HAM/HAM-CLOCK/firmware/modified/firmware.bin",
+          "offset": 65536
+        }
+      ]
+    }
+  ]
+}
