@@ -8,6 +8,10 @@
         {
           "path": "/HAM/HAM-CLOCK/firmware/modified/firmware.bin",
           "offset": 65536
+        },
+        {
+          "path": "/HAM/HAM-CLOCK/firmware/modified/littlefs.bin",
+          "offset": 2686976
         }
       ]
     }
