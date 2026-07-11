@@ -11,7 +11,7 @@
         },
         {
           "path": "/HAM/HAM-CLOCK/firmware/littlefs.bin",
-          "offset": 2686976
+          "offset": 2949120
         }
       ]
     }
